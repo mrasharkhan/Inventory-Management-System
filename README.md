@@ -1,4 +1,4 @@
-#Inventory Management System
+# Inventory Management System
 
 •	Developed a desktop application for managing inventory using OOP principles in Java.
 
